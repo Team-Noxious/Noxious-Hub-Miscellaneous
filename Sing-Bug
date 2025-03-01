@@ -76,15 +76,15 @@ channel:SendAsync("Shi<>zume yumeyume iyaiya, iya")
 
 wait(2.4)
 
-channel:SendAsync("Saa ba-ba-bagu sa bagubagu, Mato hazurezure jiai iyaiya, iya")
+channel:SendAsync("Saa ba-ba-bagu sa bagu<>bagu, Mato hazure<>zure jiai iyaiya, iya")
 
 wait(5.2)
 
-channel:SendAsync("Saa ba-ba-bagu sa bagubagu, Kotae ta<>edae iyaiya, iya")
+channel:SendAsync("Saa ba-ba-bagu sa bagu<>bagu, Kotae ta<>edae iyaiya, iya")
 
 wait(5.2)
 
-channel:SendAsync("Iyaiya, iya")
+channel:SendAsync("Iya<>iya, iya")
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -142,15 +142,15 @@ channel:SendAsync("Ba-ba-bagu pa-pa-pa-la-pa")
 
 wait(2.1)
 
-channel:SendAsync("Pa, paranoi-a")
+channel:SendAsync("Pa-paranoi-a")
 
 wait(1.4)
 
-channel:SendAsync("Pa, paranoi-a")
+channel:SendAsync("Pa-paranoi-a")
 
 wait(1.4)
 
-channel:SendAsync("Pa, paranoi-a iyaiya")
+channel:SendAsync("Pa-paranoi-a iyaiya")
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -200,6 +200,6 @@ channel:SendAsync("Ima, ima, ima")
 
 wait(1.5)
 
-channel:SendAsync("Iyaiya, iyaiya, iyaiya, iyaiya, iya!")
+channel:SendAsync("Iya<>iya, iyaiya, iya<>iya, iyaiya, iya!")
 
 -------------------------------------------------------------------------------------------------------------------------------
